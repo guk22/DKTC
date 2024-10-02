@@ -1,4 +1,4 @@
-#AIFFEL 9기 리서치 과정 DLthon 1팀 페이지
+# AIFFEL 9기 리서치 과정 DLthon 1팀 페이지
 
 - DLthon 노션페이지
 - https://www.notion.so/modulabs/DLthon-bbd1fd39897f4f828d89ca9028541c76
